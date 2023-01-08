@@ -1,29 +1,3 @@
-#terraform {
-#  required_version = ">= 1.3.0"
-#  required_providers {
-#    aws = {
-#      version = ">= 4.34.0"
-#      source  = "hashicorp/aws"
-#    }
-#    kubernetes = {
-#      version = ">= 2.14.0"
-#      source  = "hashicorp/kubernetes"
-#    }
-#    tls = {
-#      version = ">= 3.4.0"
-#      source  = "hashicorp/tls"
-#    }
-#    kubectl = {
-#      source  = "gavinbunney/kubectl"
-#      version = ">= 1.14"
-#    }
-#    kustomization = {
-#      source  = "kbst/kustomization"
-#      version = ">= 0.9.0"
-#    }
-#  }
-#}
-#
 ###################
 # Required Variables
 ###################
